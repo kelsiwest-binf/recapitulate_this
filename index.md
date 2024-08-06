@@ -1,4 +1,4 @@
 ---
-Here goes nothing.: Recapitulate THIS!
+Recapitulate THIS: Here goes nothing. 
 ---
 
