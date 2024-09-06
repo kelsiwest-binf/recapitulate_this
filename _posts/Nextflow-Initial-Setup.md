@@ -11,7 +11,10 @@ Setting up Nextflow on a Windows 10 computer:
 
 Here goes nothing. 
 
-__
+
+
+
+
 And literally, nothing went. 
 
 ---
@@ -20,11 +23,15 @@ date: 2024-09-06
 ---
 
 And just like that life got in the way. August was too busy for me. I also ended up upgrading to a new Macbook Pro. 
-So we'll be continuning the tutorial with that. 
+So we'll be continuning the tutorial with that. Apologies to all the Windows users, if you need help setting up Nextflow on a Windows, reach out!
+
+
 
 This will be a combination of setting up my Mac as a whole, for coding purposes and Nextflow install. 
 
-#Specs
+--
+Specs
+--
 I have a MacBook M3 Pro, MacOS Sonoma v14.4. 
 
 
