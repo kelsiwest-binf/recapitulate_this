@@ -1,0 +1,15 @@
+
+#First Things First. Always Installing. 
+https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI?tab=readme-ov-file
+
+#installing python on new mac
+kelsiowest@Kelsis-MacBook-Pro ~ % /bin/bash
+bash-3.2$  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+bash-3.2$ (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/kelsiowest/.zprofile
+bash-3.2$     eval "$(/opt/homebrew/bin/brew shellenv)"
+#open new terminal
+kelsiowest@Kelsis-MacBook-Pro ~ % (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/kelsiowest/.zprofile
+    eval "$(/opt/homebrew/bin/brew shellenv)"
+kelsiowest@Kelsis-MacBook-Pro ~ % brew install python
+kelsiowest@Kelsis-MacBook-Pro ~ % python3 --version  
+Python 3.9.6
