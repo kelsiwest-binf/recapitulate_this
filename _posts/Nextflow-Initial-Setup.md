@@ -29,15 +29,18 @@ So we'll be continuning the tutorial with that. Apologies to all the Windows use
 
 This will be a combination of setting up my Mac as a whole, for coding purposes and Nextflow install. 
 
---
+
 Specs
---
+
 I have a MacBook M3 Pro, MacOS Sonoma v14.4. 
 
 
 I started by installing Pycharm IDE Community Edition. It's my favorite IDE, but feel free to use your own. It helps me keep track of my local respoitories and scripts. 
 #Find it here:
 https://www.jetbrains.com/pycharm/download/?section=mac
+
+
+
 
 
 
