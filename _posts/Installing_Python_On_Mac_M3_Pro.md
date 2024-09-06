@@ -8,7 +8,8 @@ So today, I'm starting the process of installing or updating some of my favorite
 <br />
 
 
-We're starting from the *very* beginning here.👩🏼‍🔧
+We're starting from the *very* beginning here.👩🏼‍🔧 But you have to start somewhere! 
+The goal is to get my personal laptop to have all the tools, pipelines, and repositories like I had on my previous work laptop. 
 
 <br />
 I'll be following the install via this link: 
