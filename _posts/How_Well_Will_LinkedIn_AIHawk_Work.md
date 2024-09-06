@@ -110,10 +110,12 @@ Here goes nothing!
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This didn't work for me since the generic pip goes back to version 3.9 that comes with Mac as default. 
 <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So I updated this line of code to: ```pip3.12 install -r requirements.txt```
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and success! Installed! 
-![image info](../images/no_biggie_all_good.gif)
+### And success! Installed! 
 
 
+![image info](../images/no-biggie-all-good.gif)
+
+---
 
 ## Configuring/modifying the files provided with AIHawk ##
 
@@ -208,13 +210,13 @@ positions:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; While this file is very self-explanatory, it is a bit of a hurdle to get through. 
 
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I recommend using ChatGPT to try to autofill this file as much as possible. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I recommend using ChatGPT to try to autofill this file as much as possible. 
 
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Copy and paste the plain_text_resume.yaml into ChatGPT. You can tell ChatGPT to stop the response. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Copy and paste the plain_text_resume.yaml into ChatGPT. You can tell ChatGPT to stop the response. 
 
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Then copy and paste your resume text into ChatGPT and ask it to fill out the previous yaml file with this resume. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Then copy and paste your resume text into ChatGPT and ask it to fill out the previous yaml file with this resume. 
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It won't be perfect and ALWAYS make sure to double check the answers, but it saved me a lot of time!
 
@@ -224,7 +226,6 @@ positions:
 🤠**Tidbits**🤠
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kudos to feder-cr and AIHawk for great examples. This folder is gold.
-
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples are what I live by and if you didn't read anything above, these examples are great and should get you mostly there. 
 
@@ -266,10 +267,10 @@ positions:
 ## SUCCESS ##
 ![image info](../images/cowboy.gif)
 
-Kudos to AIHawk for creating this tool and more importantly, having thorough instructions for users to follow along. Getting this up and running within a couple hours is extremely impressive and that is owed to the great documentation and development.
+Kudos to feder-cr and AIHawk for creating this tool and more importantly, having thorough instructions for users to follow along. Getting this up and running within a couple hours is extremely impressive and that is owed to the great documentation and development.
 Who knows, maybe it'll land me a job!
 
-#I'll update on how accurate and what jobs it applied to for me! #
+### I'll update on how accurate it is and what jobs it applied to for me! 
 
 
 
