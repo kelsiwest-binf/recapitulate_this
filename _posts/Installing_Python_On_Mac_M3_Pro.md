@@ -16,10 +16,16 @@ I'll be following the install via this link:
 To avoid redundancy, I've only showed my code and copied any instructions that I had issues with or commented on.
 <br />
 <br />
-Anything marked with 🐄**Hold Up**🐄  is where I had issues or went a little bit off the path of instructions. 
-<br />
+
+
+
+
+Anything marked with 🐄 **Hold Up** 🐄  is where I had issues or went a little bit off the path of instructions. 
+
 Anything marked with 🤠**Tidbits**🤠 is helpful info I found out along the way.
-<br />
+
+
+
 
 
 
