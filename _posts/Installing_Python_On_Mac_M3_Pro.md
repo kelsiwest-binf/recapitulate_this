@@ -6,6 +6,8 @@ I recently purchased a new laptop to help with my education and coding endeavors
 So today, I'm starting the process of installing or updating some of my favorite tools, one of which will be Python (version 3.12).🐍
 <br />
 <br />
+
+
 We're starting from the *very* beginning here.👩🏼‍🔧
 
 <br />
