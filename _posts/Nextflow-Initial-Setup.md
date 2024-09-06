@@ -10,3 +10,12 @@ I am trying to follow the tutorial found here: https://www.nextflow.io/blog/2021
 Setting up Nextflow on a Windows 10 computer:
 
 Here goes nothing. 
+
+__
+
+And just like that life got in the way. August was too busy for me. I also ended up upgrading to a new Macbook Pro. 
+So we'll be continuning the tutorial with that. 
+
+I have a MacBook M3 Pro, MacOS Sonoma v14.4. 
+
+
