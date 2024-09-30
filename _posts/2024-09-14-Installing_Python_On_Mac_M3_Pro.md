@@ -1,4 +1,9 @@
 
+---
+Title: "Installing Python On Mac M3 Pro"
+Date: 2024-09-14
+---
+
 # Howdy!
 <br />
 I recently purchased a new laptop to help with my education and coding endeavors during my "down time" aka laid off from a tech company.
