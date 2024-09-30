@@ -1,6 +1,6 @@
 ---
-title: "How Well Will LinkedIn AIHawk Work"
-date: 2024-09-16
+Title: "How Well Will LinkedIn AIHawk Work"
+Date: 2024-09-16
 ---
 
 # Howdy!
