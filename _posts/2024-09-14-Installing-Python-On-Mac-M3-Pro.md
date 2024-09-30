@@ -98,7 +98,7 @@ Use Brew to now install Python 3.12:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is because the default version installed on a Mac is Python 3.9. 
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But the version we just install through `brew install` was Python 3.12, as shown in our terminal.
-![image info](../docs/assets/images/terminal_1.png)
+![image info](/docs/assets/images/terminal_1.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In order to access the Python 3.12 we just installed we can do two things:
 <br />
