@@ -1,8 +1,8 @@
-
 ---
 Title: "Installing Python On Mac M3 Pro"
 Date: 2024-09-14
 ---
+
 
 # Howdy!
 <br />
