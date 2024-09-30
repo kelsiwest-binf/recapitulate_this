@@ -48,7 +48,7 @@ positions:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When the program starts, my terminal displays messages stating where it is in the process: 
 <br />
 <br />
-![image info](../images/terminal.png)
+![image info](../docs/assets/images/terminal.png)
 <br />
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On this first attempt, I used my custom resume and not the AI generated option.
@@ -68,11 +68,11 @@ This means that any kind of application that is not Easy Apply, AIHawk will not 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I received emails everytime a job was applied for. See below. 
 
-![image info](../images/emails_first_attempt.png)
+![image info](../docs/assets/images/emails_first_attempt.png)
 
-![image info](../images/jobs_applied_1.png)
-![image info](../images/jobs_applied_1b.png)
-![image info](../images/jobs_applied_1c.png)
+![image info](../docs/assets/images/jobs_applied_1.png)
+![image info](../docs/assets/images/jobs_applied_1b.png)
+![image info](../docs/assets/images/jobs_applied_1c.png)
 
 🤠**Tidbits**🤠
 <br />
@@ -90,19 +90,19 @@ This means that any kind of application that is not Easy Apply, AIHawk will not 
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I did this by going to the "Jobs" section on LinkedIn and clicking on the "Applied".
 
-![image info](../images/finding_resume_1.png)
+![image info](../docs/assets/images/finding_resume_1.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From this, you can click on the "Submitted Resume" and it will download the resume used to apply to that position. 
-![image info](../images/finding_resume.png)
+![image info](../docs/assets/images/finding_resume.png)
 
 <br /><br />
 
 ### Big Reveal
-![image info](../images/aihawk_resume.png)
+![image info](../docs/assets/images/aihawk_resume.png)
 <br />
 <br />
 *insert disappointed trumpet noise here*
-![image info](../images/disappointed-sigh.gif)
+![image info](../docs/assets/images/disappointed-sigh.gif)
 <br />
 <br />
 🐄**Hold Up**🐄 
@@ -113,7 +113,7 @@ Besides the fact that it's not as beautiful as my personal resume that I spent h
 <br />
 
 ### My Real Resume
-![image info](../images/personal_resume.png)
+![image info](../docs/assets/images/personal_resume.png)
 <br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You may now see why I will now always go with the option of loading my own resume.
@@ -144,18 +144,18 @@ titleBlacklist:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I had the `titleBlacklist` above and the same `positions` I kept from the beginning. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Within minutes, I had several emails to applications that had been sent. 
 
-![image info](../images/attempt_3.png)
+![image info](../docs/assets/images/attempt_3.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was hopeful, yet suspicious, that so many positions would be relevant to my job experience or `positions` I had listed. Especially given that I have been applying to jobs on my own since January. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Upon further inspection my suspicions were confirmed. Here are a handful of the jobs that AIHawk applied for:
 <br />
 <br />
-![image info](../images/attempt_3_1b.png)
-![image info](../images/attempt_3_1.png)
-![image info](../images/attempt_3_1c.png)
-![image info](../images/attempt_3_1d.png)
-![image info](../images/attempt_3_1e.png)
+![image info](../docs/assets/images/attempt_3_1b.png)
+![image info](../docs/assets/images/attempt_3_1.png)
+![image info](../docs/assets/images/attempt_3_1c.png)
+![image info](../docs/assets/images/attempt_3_1d.png)
+![image info](../docs/assets/images/attempt_3_1e.png)
 <br />
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I will say that I was instantly mortified when I saw that it applied to the `Sr Software Engineer`. Even upon looking at the job description, there was nothing even related to Bioinformatics whatsoever. 
@@ -207,7 +207,7 @@ positions:
 <br />
 <br />
 
-![image info](../images/200w.gif)
+![image info](../docs/assets/images/200w.gif)
 
 
 
