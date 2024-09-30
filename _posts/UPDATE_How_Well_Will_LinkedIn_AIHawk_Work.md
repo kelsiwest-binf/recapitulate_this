@@ -127,30 +127,38 @@ titleBlacklist:
   - Sales
   - Application
   - Marketing
-  - Software Engineer
   - Data Scientist
   - Analyst
-```
-I have since limited my wanted positions to:
-```yaml
-positions:
-  - Senior Bioinformatics Scientist
-  - Computational Biologist
-  - Bioinformatics
 ```
 <br />
 <br />
 
 # Attempt #3
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I had several *very helpful* error messages pop up.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For this attempt, I launched AIHawk on a Thursday afternoon. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I had the `titleBlacklist` above and the same `positions` I kept from the beginning. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Within minutes, I had several emails to applications that had been sent. 
+
+![image info](../images/attempt_3.png)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was hopeful, yet suspicious, that so many positions would be relevant to my job experience or `positions` I had listed. Especially given that I have been applying to jobs on my own since January. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Upon further inspection my suspicions were confirmed. Here are a handful of the jobs that AIHawk applied for:
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This was related to `exam` and `link` missing in my Education and Project sections. 
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I simply added those lines back into the yaml, but did not provide a key for them, just left them blank.
+![image info](../images/attempt_3_1b.png)
+![image info](../images/attempt_3_1.png)
+![image info](../images/attempt_3_1c.png)
+![image info](../images/attempt_3_1d.png)
+![image info](../images/attempt_3_1e.png)
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I love that we have options here. I did use a specific resume, since I had one on file. 
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm not sure how it affects the application process or how well AIHawk works, but I'll try both and find out. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I will say that I was instantly mortified when I saw that it applied to the `Sr Software Engineer`. Even upon looking at the job description, there was nothing even related to Bioinformatics whatsoever. 
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I would say the most relevant from the handful of positions above would be the Clinical SAS/R Programmer. But nowhere do I have `Clinical` or `Programmer` in my `positions`. I'm still a bit thrown-off on how it applied to most of these.
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; From this information, I decided to add more to my `titleBlacklist` and limit my `positions` extremely. 
+<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have modified my blacklist to:
 
 ```yaml
@@ -158,11 +166,12 @@ titleBlacklist:
   - Sales
   - Application
   - Marketing
+  - Programmer
   - Software Engineer
   - Data Scientist
-  - Analyst
+  - Data Analyst
 ```
-I have since limited my wanted positions to:
+I have since limited my desired positions to:
 ```yaml
 positions:
   - Senior Bioinformatics Scientist
@@ -171,21 +180,29 @@ positions:
 ```
 <br />
 <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I will say that running with the above adjustments, led to a much narrower pool of applications. It's not AIHawk's fault there are not positions for those titles, and it seemed way more accurate in searching for those specific positions only. 
+<br />
 <br />
 
 # Final Review
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AIHawk is a convenient, easy-to-use CLI tool, to apply to certain job types on LinkedIn.
+
+<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As with all things code, this is a game of troubleshooting to really narrow in AIHawk on the positions you want to apply for.
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I would say more than any other of the categories, `positions` and `titleBlacklist` inside the `config.yml` are most important for having AIHawk apply to positions that are most relevant.
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; From my experience, it helps to switch up the days you run the program. One attempt I have had 3 applications sent and on other days I've had 12. Again, they were not all relevant, but some were! You could even just have this set up to run when you opened your computer. All it takes is one line of code to run after you have all the files filled out!
 <br />
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I **really** wish it applied to jobs outside the Easy Apply, but I do see the limitations with that (e.g. job specific questions, third party log-in, additional files required, etc.). 
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maybe we could use AI to solve that but then again, maybe we would just have hallucination issues as above. 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As always, I would like to give a hats off to the creators, feder-cr and AIHawk for publishing this tool and more importantly, having thorough instructions for users to follow along and make use of this tool! 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As always, I would like to give a hats off to the creators, feder-cr and AIHawk for publishing this tool and more importantly, having thorough instructions for users to follow along and make use of this tool!
 <br />
 <br />
-![image info](../images/hawk.gif)
+
+![image info](../images/200w.gif)
+
 
 
