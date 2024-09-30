@@ -71,22 +71,22 @@ Here goes nothing!
 <br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Go the the bottom right side of Pycharm application and click on "Pycharm Interpreter". 
-![image info](../docs/assets/images/pycharm_2.png)
+![image info](/recapitulate_this/docs/assets/images/pycharm_2.png)
 <br />
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Click Add New Interpreter. 
 <br />
-![image info](../docs/assets/images/pycharm_3.png)
+![image info](/recapitulate_this/docs/assets/images/pycharm_3.png)
 <br />
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Click Existing. 
 <br />
-![image info](../docs/assets/images/pycharm_4.png)
+![image info](/recapitulate_this/docs/assets/images/pycharm_4.png)
 <br />
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Then locate to the location of Python 3.12 (or any Python version >=3.10). 
 <br />
-![image info](../docs/assets/images/pycharm_5.png)
+![image info](/recapitulate_this/docs/assets/images/pycharm_5.png)
 <br />
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- You can run `which python3.12` or `which python3`, to find the location of Python.
@@ -117,7 +117,7 @@ Here goes nothing!
 ### And success! Installed! 
 
 
-![image info](../docs/assets/images/no-biggie-all-good.gif)
+![image info](/recapitulate_this/docs/assets/images/no-biggie-all-good.gif)
 
 ---
 
@@ -259,7 +259,7 @@ positions:
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I simply added those lines back into the yaml, but did not provide a key for them, just left them blank.
 <br />
-![image info](../docs/assets/images/resume_1.png)
+![image info](/recapitulate_this/docs/assets/images/resume_1.png)
 <br />
 <br />
 🤠**Tidbits**🤠
@@ -269,7 +269,7 @@ positions:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm not sure how it affects the application process or how well AIHawk works, but I'll try both and find out. 
 
 ## SUCCESS ##
-![image info](../docs/assets/images/cowboy.gif)
+![image info](/recapitulate_this/docs/assets/images/cowboy.gif)
 
 Kudos to feder-cr and AIHawk for creating this tool and more importantly, having thorough instructions for users to follow along. Getting this up and running within a couple hours is extremely impressive and that is owed to the great documentation and development.
 Who knows, maybe it'll land me a job!
