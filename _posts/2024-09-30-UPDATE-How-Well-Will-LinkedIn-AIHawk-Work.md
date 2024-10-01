@@ -9,14 +9,15 @@ Date: 2024-09-30
 
  As with any good experiment, I've tried AIHawk several different times to see differences and adjust parameters to narrow the positions it applies to. 
 
-If you haven't seen my original post on AIHawk, including a walk through installation and modifying files with all my 🤠**Tidbits**🤠 and 🐄**Hold Ups**🐄, find it [HERE]([https://pages.github.com/](https://kelsiwest-binf.github.io/recapitulate_this/2024/09/16/How-Well-Will-LinkedIn-AIHawk-Work.html)).
+If you haven't seen my original post on AIHawk, including a walk through installation and modifying files with all my 🤠**Tidbits**🤠 and 🐄**Hold Ups**🐄, find it [HERE](https://kelsiwest-binf.github.io/recapitulate_this/2024/09/16/How-Well-Will-LinkedIn-AIHawk-Work.html).
+
 ---
 <br />
 
 ### LinkedIn_AIHawk
 
 #### 🤖🔍 Your AI-powered job search assistant. Automate applications, get personalized recommendations, and land your dream job faster.
-Find it here: [LinkedIn AIHawk]([https://pages.github.com/](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI?tab=readme-ov-file))
+Find it here: [LinkedIn AIHawk](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI?tab=readme-ov-file)
 
 
 ---
