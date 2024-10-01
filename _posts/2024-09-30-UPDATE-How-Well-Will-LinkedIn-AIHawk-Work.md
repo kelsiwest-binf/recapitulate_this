@@ -94,7 +94,11 @@ I did this by going to the "Jobs" section on LinkedIn and clicking on the "Appli
 From this, you can click on the "Submitted Resume" and it will download the resume used to apply to that position. 
 ![image info](/recapitulate_this/docs/assets/images/finding_resume.png)
 
-<br /><br />
+<br />
+
+<br />
+<br />
+<br />
 
 ### Big Reveal
 ![image info](/recapitulate_this/docs/assets/images/aihawk_resume.png)
