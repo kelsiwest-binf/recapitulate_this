@@ -11,8 +11,7 @@ My friend, Alex Jacobs, forwarded me this repo that uses AI to auto-fill and app
 ### LinkedIn_AIHawk
 
 #### 🤖🔍 Your AI-powered job search assistant. Automate applications, get personalized recommendations, and land your dream job faster.
-Find it here:
-https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI?tab=readme-ov-file
+Find it here: [LinkedIn AIHawk](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI?tab=readme-ov-file)
 
 ---
 What an awesome use of AI!
@@ -30,19 +29,20 @@ Anything marked with 🤠**Tidbits**🤠 is helpful info I found out along the w
 <br />
 Let's try to install and submit some job applications with AIHawk!
 <br />
+<br />
 Here goes nothing!
 <br />
 <br />
 ## Installation
 
 1. **Download and Install Python:**
-   - If you're interested in how I installed Python on my new MAc M3 Pro, check out my other post here -> 
+   - If you're interested in how I installed Python on my new MAc M3 Pro, check out my other post [HERE](https://kelsiwest-binf.github.io/recapitulate_this/2024/09/14/Installing-Python-On-Mac-M3-Pro.html). 
 2. **Download and Install Google Chrome:**
 
    
 🤠**Tidbits**🤠
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Do yourself a favor and go ahead and log-in to LinkedIn on Chrome. It will try to do that when you first run the main script anyways. 
+Do yourself a favor and go ahead and log-in to LinkedIn on Chrome. It will try to do that when you first run the main script anyways. 
 
 3. **Clone the repository:**
    ```bash
@@ -52,22 +52,23 @@ Here goes nothing!
    
 🤠**Tidbits**🤠
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I prefer to use Pycharm IDE Community Edition (Free) when managing my repos locally. I utilized the "Get from VCS" option when 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;creating a new project and utilized AIHawk's github http link to import the entire repo into my local projects. 
-<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But feel free to clone the repo as shown above!
+I prefer to use Pycharm IDE Community Edition (Free) when managing my repos locally. I utilized the "Get from VCS" option when 
+creating a new project and utilized AIHawk's github http link to import the entire repo into my local projects. 
+<br /> 
+But feel free to clone the repo as shown above!
 
 🐄 **Hold Up**🐄 
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After pullling the repo from Git, it gave me an error in Pycharm that I didn't have Python veresion >= 3.10.
+After pullling the repo from Git, it gave me an error in Pycharm that I didn't have Python veresion >= 3.10.
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That's not true, because I just installed 3.12. 
+That's not true, because I just installed 3.12. 
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For me, running `python3 --version` printed `Python 3.9.6`. 
+For me, running `python3 --version` printed `Python 3.9.6`. 
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That's because Mac comes with a default installation of 3.9. So we need to tell Pycharm to use the 3.12 version.
+That's because Mac comes with a default installation of 3.9. So we need to tell Pycharm to use the 3.12 version.
 <br />
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We can do that by changing our Python Interpreter in Pycharm. 
+We can do that by changing our Python Interpreter in Pycharm. 
 <br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Go the the bottom right side of Pycharm application and click on "Pycharm Interpreter". 
@@ -97,10 +98,11 @@ Here goes nothing!
 ## Now back to the tutorial 
 
 4. Activate virtual environment:
-
-`Kelsis-MacBook-Pro ~ % python3 -m venv virtual`
-<br />
-`Kelsis-MacBook-Pro ~ % source virtual/bin/activate`
+   
+```
+Kelsis-MacBook-Pro ~ % python3 -m venv virtual
+Kelsis-MacBook-Pro ~ % source virtual/bin/activate
+```
 
 5. Install the required packages:
 
@@ -111,10 +113,11 @@ Here goes nothing!
 
 🐄**Hold Up**🐄
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This didn't work for me since the generic pip goes back to version 3.9 that comes with Mac as default. 
-<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So I updated this line of code to: ```pip3.12 install -r requirements.txt```
+This didn't work for me since the generic pip goes back to version 3.9 that comes with Mac as default. 
+<br /> 
+So I updated this line of code to: ```pip3.12 install -r requirements.txt```
 
-### And success! Installed! 
+### And SUCCESS! Installed! 
 
 
 ![image info](/recapitulate_this/docs/assets/images/no-biggie-all-good.gif)
@@ -127,26 +130,22 @@ Here goes nothing!
 
 🤠**Tidbits**🤠
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Make sure your email and password are correct. 
+Make sure your email and password are correct. 
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With some passwords saved, it's always good to confirm before you have to deal with an error message. 
+With some passwords saved, it's always good to confirm before you have to deal with an error message. 
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To test this, I just logged out and back in with just using my email (not my saved google email). 
+To test this, I just logged out and back in with just using my email (not my saved google email). 
 <br />
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When obtaining the API key, it was pretty self explanatory from the link they provided above. I did have to 
+When obtaining the API key, it was pretty self explanatory from the link they provided above. I did have to verify my account with my phone number before it would let me create one. 
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;verify my account with my phone number before it would let me create one. 
+I also needed to add credit to my account. That was also self explanatory. 
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I also needed to add credit to my account. That was also self explanatory. 
+I have no idea at this point how much this will cost. 
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have no idea at this point how much this will cost. 
+Depending on the number of job titles and locations you use, I imagine it may use more of the OpenAI resources.
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Depending on the number of job titles and locations you use, I imagine it may use more of 
-<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the OpenAI resources.
-<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I gave my account $10. And set an alert to email me at $6 to re-up my account if I choose. 
+I gave my account $10. And set an alert to email me at $6 to re-up my account if I choose. 
 
 ### I'll update this post on the cost if it's a major hinderence to using AIHawk 
 
@@ -162,11 +161,14 @@ Here goes nothing!
     ```
 🤠**Tidbits**🤠
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is where the time/costs comes in to this tool. 
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This can also be tricky to nail the titles just right. For my choices in Bioinformatics, I've applied to 
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; numerous different titles and it really varies based on companies. 
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So to fill this out, I just took the most common ones from previous applications and added them here. 
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mine looks like:
+This is where the time/costs comes in to this tool. 
+<br />
+This can also be tricky to nail the titles just right. For my choices in Bioinformatics, I've applied to numerous different titles and it really varies based on companies. 
+<br />
+So to fill this out, I just took the most common ones from previous applications and added them here.  
+<br />
+<br />
+Mine looks like:
 <br />
 ```yaml
 positions:
@@ -191,9 +193,9 @@ positions:
     ```
 🤠**Tidbits**🤠
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm only looking for remote, because there isn't much in my direct area in Texas. 
+I'm only looking for remote, because there isn't much in my direct area in Texas. 
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So I put United States, and Texas as my two locations.
+So I put United States, and Texas as my two locations.
 
 - `companyBlacklist:`
   - List companies you want to exclude from your search, one per line
@@ -205,37 +207,37 @@ positions:
     ```
 🤠**Tidbits**🤠
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proabably all the companies you have worked for in the past. Unless you enjoyed them, of course. 
+Proabably all the companies you have worked for in the past. Unless you enjoyed them, of course. 
 
 ### 3. plain_text_resume.yaml
 
 🤠**Tidbits**🤠
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; While this file is very self-explanatory, it is a bit of a hurdle to get through. 
+While this file is very self-explanatory, it is a bit of a hurdle to get through. 
+I recommend using ChatGPT to try to autofill this file as much as possible. 
+<br />
+
+- Copy and paste the plain_text_resume.yaml into ChatGPT. You can tell ChatGPT to stop the response. 
+
+
+- Then copy and paste your resume text into ChatGPT and ask it to fill out the previous yaml file with this resume.
+
+It won't be perfect and ALWAYS make sure to double check the answers, but it saved me a lot of time!
 
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I recommend using ChatGPT to try to autofill this file as much as possible. 
-
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Copy and paste the plain_text_resume.yaml into ChatGPT. You can tell ChatGPT to stop the response. 
 
-<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Then copy and paste your resume text into ChatGPT and ask it to fill out the previous yaml file with this resume. 
-<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It won't be perfect and ALWAYS make sure to double check the answers, but it saved me a lot of time!
-
-
-### PLUS. data_folder_example
+### Let's tip our hats to the `data_folder_example` directory!
 
 🤠**Tidbits**🤠
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kudos to feder-cr and AIHawk for great examples. This folder is gold.
+Kudos to feder-cr and AIHawk for great examples. This folder is gold.
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples are what I live by and if you didn't read anything above, these examples are great and should get you mostly there. 
+Examples are what I live by and if you didn't read anything above, these examples are great and should get you mostly there. 
 
 ## Usage
 
-3. **Run the Bot:**
+**Run the Bot:**
    LinkedIn_AIHawk offers flexibility in how it handles your pdf resume:
 - **Dynamic Resume Generation:**
   If you don't use the `--resume` option, the bot will automatically generate a unique resume for each application. This feature uses the information from your `plain_text_resume.yaml` file and tailors it to each specific job application, potentially increasing your chances of success by customizing your resume for each position.
@@ -249,24 +251,24 @@ positions:
   ```
 🐄 **Hold Up**🐄
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I ran the following line of code:
+I ran the following line of code:
   `Kelsis-MacBook-Pro ~ % python main.py --resume data_folder/kw_resume.pdf`
 
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I had several *very helpful* error messages pop up.
+I had several *very helpful* error messages pop up.
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This was related to `exam` and `link` missing in my Education and Project sections. 
+This was related to `exam` and `link` missing in my Education and Project sections. 
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I simply added those lines back into the yaml, but did not provide a key for them, just left them blank.
+I simply added those lines back into the yaml, but did not provide a key for them, just left them blank.
 <br />
 ![image info](/recapitulate_this/docs/assets/images/resume_1.png)
 <br />
 <br />
 🤠**Tidbits**🤠
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I love that we have options here. I did use a specific resume, since I had one on file. 
+I love that we have options here. I did use a specific resume, since I had one on file. 
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm not sure how it affects the application process or how well AIHawk works, but I'll try both and find out. 
+I'm not sure how it affects the application process or how well AIHawk works, but I'll try both and find out. 
 
 ## SUCCESS ##
 ![image info](/recapitulate_this/docs/assets/images/cowboy.gif)
