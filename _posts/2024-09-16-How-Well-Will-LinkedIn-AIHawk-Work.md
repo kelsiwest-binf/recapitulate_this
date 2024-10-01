@@ -8,7 +8,7 @@ Date: 2024-09-16
 My friend, Alex Jacobs, forwarded me this repo that uses AI to auto-fill and apply to jobs in LinkedIn. 
 
 ---
-### LinkedIn_AIHawk
+### LinkedIn AIHawk
 
 #### 🤖🔍 Your AI-powered job search assistant. Automate applications, get personalized recommendations, and land your dream job faster.
 Find it here: [LinkedIn AIHawk](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI?tab=readme-ov-file)
