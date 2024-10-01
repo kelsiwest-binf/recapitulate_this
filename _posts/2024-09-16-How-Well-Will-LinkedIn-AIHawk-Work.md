@@ -123,6 +123,10 @@ So I updated this line of code to: ```pip3.12 install -r requirements.txt```
 ![image info](/recapitulate_this/docs/assets/images/no-biggie-all-good.gif)
 
 ---
+<br />
+<br />
+<br />
+<br />
 
 ## Configuring/modifying the files provided with AIHawk ##
 
