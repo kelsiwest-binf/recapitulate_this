@@ -1,5 +1,5 @@
 ---
-Title: "UPDATE - How Well Will LinkedIn AIHawk Work"
+Title: "UPDATE - HOW WELL WILL LINKEDIN AIHAWK WORK"
 Date: 2024-09-30
 ---
 
