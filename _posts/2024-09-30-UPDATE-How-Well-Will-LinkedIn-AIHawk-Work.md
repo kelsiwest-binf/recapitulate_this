@@ -27,6 +27,8 @@ Anything marked with 🐄**Hold Up**🐄  is where I had issues or went a little
 Anything marked with 🤠**Tidbits**🤠 is helpful info I found out along the way.
 <br />
 <br />
+<br />
+<br />
 
 # Attempt #1
 In my first attempt, this is what the `positions` in the config.yaml file looked like:
@@ -79,7 +81,9 @@ This means that any kind of application that is not Easy Apply, AIHawk will not 
   1 out of 3 isn't bad for something I did not have to do, but I do feel as I am contributing to the already huge problem of people applying and "junking" up HR inboxes of positions they aren't qualified or interested in to just hurt other more qualified candidate's chances. 
 <br />
 <br />
-
+<br />
+<br />
+<br />
 # Attempt #2
 For my second attempt, I wanted to see what, if any, difference using the AI generated resume option would have. 
 <br />
@@ -101,6 +105,7 @@ From this, you can click on the "Submitted Resume" and it will download the resu
 <br />
 <br />
 *insert disappointed trumpet noise here*
+<br />
 ![image info](/recapitulate_this/docs/assets/images/disappointed-sigh.gif)
 <br />
 <br />
@@ -159,7 +164,9 @@ Upon further inspection my suspicions were confirmed. Here are a handful of the 
 <br />
 I will say that I was instantly mortified when I saw that it applied to the `Sr Software Engineer`. Even upon looking at the job description, there was nothing even related to Bioinformatics whatsoever. 
 <br />
-I would say the most relevant from the handful of positions above would be the Clinical SAS/R Programmer. But nowhere do I have `Clinical` or `Programmer` in my `positions`. I'm still a bit thrown-off on how it applied to most of these.
+<br />
+I would say the most relevant position from the handful of positions above would be the Clinical SAS/R Programmer. But nowhere do I have `Clinical` or `Programmer` in my `positions`. I'm still a bit thrown-off on how it applied to most of these.
+<br />
 <br />
 From this information, I decided to add more to my `titleBlacklist` and limit my `positions` extremely. 
 <br />
@@ -200,6 +207,8 @@ From my experience, it helps to switch up the days you run the program. One atte
 <br />
 
 I **really** wish it applied to jobs outside the Easy Apply, but I do see the limitations with that (e.g. job specific questions, third party log-in, additional files required, etc.). 
+<br />
+<br />
 <br />
 Maybe we could use AI to solve that but then again, maybe we would just have hallucination issues as above. 
 As always, I would like to give a hats off to the creators, feder-cr and AIHawk for publishing this tool and more importantly, having thorough instructions for users to follow along and make use of this tool!
