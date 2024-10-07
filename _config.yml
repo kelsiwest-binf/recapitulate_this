@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: papierkorp/jekyll-theme-horizon-flow
 title: Replicate THIS!
 author: Kelsi West, PhD, MPH
 description: How many tutorials/analyses out there I can *actually* replicate? Let's drive progress with clear communication, open code, and shared data.
