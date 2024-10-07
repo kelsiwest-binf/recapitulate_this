@@ -282,6 +282,8 @@ Who knows, maybe it'll land me a job!
 
 ### I'll update on how accurate it is and what jobs it applied to for me! 
 
+# Overall Ranking
 
+🐂Like reading cattle brands – Understandable, but requires some knowledge.
 
 

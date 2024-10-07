@@ -219,6 +219,10 @@ As always, I would like to give a hats off to the creators, feder-cr and AIHawk 
 <br />
 <br />
 
+# Overall Ranking
+
+🏞️Clear as a mountain stream – Mostly clear, but with some depth to navigate.
+
 ![image info](/recapitulate_this/docs/assets/images/200w.gif)
 
 

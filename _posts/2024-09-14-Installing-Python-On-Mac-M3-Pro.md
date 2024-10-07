@@ -129,5 +129,12 @@ for my use case, I'm fine with just using `python3.12` if that version is needed
 <br />
 <br />
 Overall, I'm surprised how smoothly that went. Probably because I don't have any other junk or dependencies to mess things up yet! All in due time.🕸️
+<br />
+<br />
+# Overall Ranking
+<br />
 
+🏞️Clear as a mountain stream – Mostly clear, but with some depth to navigate. 
+<br />
+<br />
 
