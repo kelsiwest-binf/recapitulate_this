@@ -1,7 +1,7 @@
 <header>
 
 <!--
- Recapitulate THIS!
+ Replicate THIS!
  Hi! 
  I'm Kelsi West. I'm a DIY enthusiast and that applies to all parts of my life, including my career as a Bioinformatics Scientist. 
  In my field, I find that communication and reproducibility is severely lacking. I want to help change this. 
@@ -11,7 +11,7 @@
  Let's make everything reproducbile. It starts with clear communication! 
 
 -->
-# Recapitulate THIS!
+# Replicate THIS!
 
  ---
 ## Howdy! 
