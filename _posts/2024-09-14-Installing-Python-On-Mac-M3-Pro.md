@@ -43,7 +43,8 @@ Anything marked with 🤠**Tidbits**🤠 is helpful info I found out along the w
 <br />
 
 
-
+Here goes nothing!
+<br />
 # Installing python on Mac M3 Pro, macOS Sonoma v14.4
 
 ### Open up terminal:
