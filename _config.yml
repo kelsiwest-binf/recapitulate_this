@@ -1,13 +1,10 @@
-theme: minima
+remote_theme: benbalter/retlab
 title: Replicate THIS!
 author: Kelsi West, PhD, MPH
 description: How many tutorials/analyses out there I can *actually* replicate? Let's drive progress with clear communication, open code, and shared data.
 # Build settings
 markdown: kramdown
-plugins: # previsously gems
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
+plugins:
+  - jekyll-remote-theme
 feed:
   path: atom.xml
