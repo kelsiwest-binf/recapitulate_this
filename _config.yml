@@ -4,7 +4,6 @@ author: Kelsi West, PhD, MPH
 description: How many tutorials/analyses out there I can *actually* replicate? Let's drive progress with clear communication, open code, and shared data.
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
